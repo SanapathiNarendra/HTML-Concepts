@@ -111,6 +111,4 @@ Blog article	Semantic structure
 
 
 
- Summary Roadmap (One-Line Flow)
-
-HTML basics → Tags → Links → Images → Lists → Tables → Forms → Semantic HTML → Accessibility → Best Practices → Mini Projects
+ 
