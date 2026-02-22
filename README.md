@@ -103,7 +103,29 @@ Resume webpage	Tables, lists, text formatting
 Login & register page	Forms, input types
 Product listing page	Cards, images, links
 Blog article	Semantic structure
-
+DATE:03/02/22026
+HTML BASICS
+1.HTML Introdution
+2.HTML Editors
+DATE:04/02/2026
+3.HTML TAGS 
+4.HTML Links
+DATE:05/02/2026
+5.HTML images
+6.HTML list
+DATE:07/02/2026
+7.HTML tables
+8.HTML Head
+DATE:09/02/2026
+9.HTML layout
+10.HTML block and Inline
+DATE:10/02/2026
+11.HTML id 
+DATE:11/02/2026
+12.HTML class
+13.HTML paragraph tags
+14.HTML anchor tag
+15.HTML Formating
 
 
 
